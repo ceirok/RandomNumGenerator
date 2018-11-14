@@ -1,0 +1,17 @@
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\RandomNumberLibrary.Test.deps.json
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\RandomNumberLibrary.Test.runtimeconfig.json
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\RandomNumberLibrary.Test.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\RandomNumberLibrary.Test.dll
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\RandomNumberLibrary.Test.pdb
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\RandomNumberLibrary.dll
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\bin\Debug\netcoreapp2.0\RandomNumberLibrary.pdb
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\obj\Debug\netcoreapp2.0\RandomNumberLibrary.Test.csprojResolveAssemblyReference.cache
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\obj\Debug\netcoreapp2.0\RandomNumberLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\obj\Debug\netcoreapp2.0\RandomNumberLibrary.Test.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\obj\Debug\netcoreapp2.0\RandomNumberLibrary.Test.AssemblyInfo.cs
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\obj\Debug\netcoreapp2.0\RandomNumberLibrary.Test.csproj.CopyComplete
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\obj\Debug\netcoreapp2.0\RandomNumberLibrary.Test.dll
+C:\Users\opilane\source\repos\RandomNumberLibrary\RandomNumberLibrary.Test\obj\Debug\netcoreapp2.0\RandomNumberLibrary.Test.pdb
